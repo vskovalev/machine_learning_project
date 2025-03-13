@@ -2,6 +2,29 @@
 
 This repository contains the implementation of **Project 2: Tree Predictors for Binary Classification**, as part of the experimental projects for the academic year 2023/2024. The goal of this project is to implement tree predictors from scratch for binary classification using the Mushroom dataset. The task is to determine whether mushrooms are poisonous based on the features in the dataset.
 
+## Disclaimer
+
+The experimental project is typically based on implementing two or more learning algorithms (or variants of the same algorithm) from scratch. The algorithms are compared on real-world datasets. The programming language is immaterial. However, the implementation should be reasonable in terms of running time and memory footprint. If the experimental project is based on neural networks, then the student is allowed to use a toolbox (e.g., Keras). The report, preferably written using LaTeX, will be evaluated according to the following criteria:
+
+Correctness of the general methodological approach
+Reproducibility of the experiments
+Correctness of the approach used for choosing the hyperparameters
+Clarity of exposition
+Group projects are NOT allowed: students must complete their projects individually.
+If your solution is adapted from other sources (e.g., Kaggle), this must be clearly stated, and the report should explain the differences and compare the experimental results.
+Steps to complete the experimental project:
+
+Create a public repository containing both the code and the report (in pdf)
+Fill out a form to turn in the project
+In 1-3 weeks, you will be contacted via email to schedule the oral examination.
+The theory project is typically (but not exclusively) focused on a topic taught in class. The report will be based on one scientific paper (provided by the instructor), and must contain the complete proof of at least a technical result, including all necessary definitions and auxiliary lemmas. The goal of the theory project is to provide an in-depth presentation of the paper's results, including its connections with the related literature. The report may be structured as follows
+
+Introduction and description of the problem
+- Most important related works
+- Notation and relevant definitions
+- Proof of a technical result
+- Some critical considerations.
+
 ## Submission Details
 
 - **Deadline for submission**: 17/02/2025
