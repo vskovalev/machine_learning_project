@@ -14,9 +14,10 @@ Group projects are NOT allowed: students must complete their projects individual
 If your solution is adapted from other sources (e.g., Kaggle), this must be clearly stated, and the report should explain the differences and compare the experimental results.
 Steps to complete the experimental project:
 
-Create a public repository containing both the code and the report (in pdf)
-Fill out a form to turn in the project
-In 1-3 weeks, you will be contacted via email to schedule the oral examination.
+- Create a public repository containing both the code and the report (in pdf)
+- Fill out a form to turn in the project
+- In 1-3 weeks, you will be contacted via email to schedule the oral examination.
+
 The theory project is typically (but not exclusively) focused on a topic taught in class. The report will be based on one scientific paper (provided by the instructor), and must contain the complete proof of at least a technical result, including all necessary definitions and auxiliary lemmas. The goal of the theory project is to provide an in-depth presentation of the paper's results, including its connections with the related literature. The report may be structured as follows
 
 Introduction and description of the problem
