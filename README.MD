@@ -2,7 +2,7 @@
 
 This repository contains the implementation of **Project 2: Tree Predictors for Binary Classification**, as part of the experimental projects for the academic year 2023/2024. The goal of this project is to implement tree predictors from scratch for binary classification using the Mushroom dataset. The task is to determine whether mushrooms are poisonous based on the features in the dataset.
 
-## Disclaimer
+## Description
 
 The experimental project is typically based on implementing two or more learning algorithms (or variants of the same algorithm) from scratch. The algorithms are compared on real-world datasets. The programming language is immaterial. However, the implementation should be reasonable in terms of running time and memory footprint. If the experimental project is based on neural networks, then the student is allowed to use a toolbox (e.g., Keras). The report, preferably written using LaTeX, will be evaluated according to the following criteria:
 
